@@ -89,11 +89,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td></tr></table>  
 
-<br/>  
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tp3mypqmjvtd6qugvdx2hndvny&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=b14e58&bar_color_cover=true)  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=vijayakumar-murugesan&&style=flat-square)  
   
